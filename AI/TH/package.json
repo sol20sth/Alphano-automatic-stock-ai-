@@ -1,0 +1,15 @@
+{
+  "name": "th",
+  "version": "1.0.0",
+  "description": "pip install tensorflow\r pip install numpy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pandas": "^0.0.3"
+  }
+}

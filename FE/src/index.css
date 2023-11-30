@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+  max-width: 500px;
+  max-height: 1200px;
+  min-height: 100vh;
+  margin: auto;
+  background-color: white;
+  box-shadow: rgb(219, 219, 219) 0px 0px 10px;
+}
